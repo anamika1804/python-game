@@ -42,7 +42,7 @@ Ladders and snakes are scattered around the board, which can either help or hind
 How to Play
 ------------
 
-1. Run the game by executing the `python_game.py` file.
+1. Run the game by executing the `assignment_anamika.py` file.
 2. Follow the in-game instructions to roll the dice and move your piece.
 3. Climb ladders and dodge snakes to reach square 100 first.
 
